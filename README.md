@@ -1,6 +1,6 @@
 # Textile Business Insights & Commission Analysis
 
-A project based on my freelance work as a **Data Engineer at Softwood Textile Company**, combining data cleaning, business analysis, dashboards, and exploratory machine learning to understand the textile contracts and the commission earnings.
+A project based on my freelance work as a Data Engineer at Softwood Textile Company, which integrates data cleaning, business analysis, dashboards, and exploratory machine learning to gain insights into textile contracts and commission-based revenue.
 
 ## Problem
 
