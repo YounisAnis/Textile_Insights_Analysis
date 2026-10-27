@@ -27,9 +27,9 @@ The analysis focused on three questions:
 
 ## Proposed Solution & Business Value
 
-The analysis recommended strengthening high-contributing partnerships, expanding the customer base to reduce dependency, improving payment processes, and monitoring currency exposure. It also proposed targeting customers with profiles similar to existing strong contributors.
+The analysis recommends strengthening key partner relationships, expanding the customer base to reduce dependency, improving payment processes, and monitoring currency exposure. It also suggests targeting customers with profiles similar to those of existing, high-performing partners.
 
-The project produced cleaned data, dashboards, and recommendations to support partner prioritisation, commission reporting, and customer expansion planning. **Revenue growth, cost savings, and wider market benefits were not measured in the available work.**
+The project delivered clean data, dashboards, and recommendations to support partner prioritization, commission reporting, and customer expansion planning. Revenue growth, cost savings, and broader market benefits were not quantified in the scope of the work performed.
 
 ## Commission Prediction
 
